@@ -156,6 +156,8 @@ These are just a few of the layout components available in Jetpack Compose. By c
 - You can nest these layout composables to create more complex structures.
 - Explore the official Jetpack Compose documentation for a comprehensive list of composables and their parameters:
 
+### Resources:
+
 <div>
   <a href="https://developer.android.com/develop/ui/compose/layouts">
     <img src="https://i.postimg.cc/L6Hqbpqr/android-developers.png" style="width:500px; height:300px; object-fit: cover;" 
