@@ -158,15 +158,15 @@ These are just a few of the layout components available in Jetpack Compose. By c
 
 <div>
   <a href="https://developer.android.com/develop/ui/compose/layouts">
-    <img src="https://i.postimg.cc/L6Hqbpqr/android-developers.png" style="width:500px; height:500px; object-fit: cover;" 
+    <img src="https://i.postimg.cc/L6Hqbpqr/android-developers.png" style="width:500px; height:300px; object-fit: cover;" 
   </a>
   <br>
   <a href="https://www.youtube.com/playlist?list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r">
-    <img src="https://i.ytimg.com/vi/ERBEWmfz6h0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCTBhaLoayUXIDFmuaydCLyhwqDHA" style="width:500px; height:500px; object-fit: cover;"  />
+    <img src="https://i.ytimg.com/vi/ERBEWmfz6h0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCTBhaLoayUXIDFmuaydCLyhwqDHA" style="width:500px; height:300px; object-fit: cover;"  />
   </a>
   <br>
   <a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC">
-    <img src="https://i.ytimg.com/vi/cDabx3SjuOY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFrPRmWHGYUxzqUqL7zXYmTENTEA" style="width:500px; height:500px; object-fit: cover;"  />
+    <img src="https://i.ytimg.com/vi/cDabx3SjuOY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFrPRmWHGYUxzqUqL7zXYmTENTEA" style="width:500px; height:300px; object-fit: cover;"  />
  </a>
 </div>
 
