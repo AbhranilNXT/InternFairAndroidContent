@@ -215,6 +215,22 @@ val token = "your\_auth\_token\_here"
 		.build()
 ```
 
+### Resources:
+
+<div>
+  <a href="https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0">
+    <img src="https://i.postimg.cc/L6Hqbpqr/android-developers.png" style="width:500px; height:300px; object-fit: cover;" 
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=t6Sql3WMAnk&pp=ygUYcmV0cm9maXQgcGhpbGlwcCBsYWNrbmVy">
+    <img src="https://img.youtube.com/vi/t6Sql3WMAnk/sddefault.jpg" style="width:500px; height:350px; object-fit: cover;"  />
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=sBCE_hOFnQU&t=630s&pp=ygUUcmV0cm9maXQgc3RldmR6YSBzYW4%3D">
+    <img src="https://img.youtube.com/vi/sBCE_hOFnQU/sddefault.jpg" style="width:500px; height:350px; object-fit: cover;"  />
+ </a>
+</div>
+
 
 ### Some important interview or concept questions related to Retrofit in Android:
 
