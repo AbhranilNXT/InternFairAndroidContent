@@ -166,7 +166,7 @@ These are just a few of the layout components available in Jetpack Compose. By c
   </a>
   <br>
   <a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC">
-    <img src="https://i.ytimg.com/vi/cDabx3SjuOY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFrPRmWHGYUxzqUqL7zXYmTENTEA" style="width:500px; height:500px; object-fit: cover;"  />
+    <img src="https://i.ytimg.com/vi/cDabx3SjuOY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFrPRmWHGYUxzqUqL7zXYmTENTEA" style="width:300px; height:200px; object-fit: cover;"  />
  </a>
 </div>
 
