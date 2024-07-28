@@ -160,9 +160,12 @@ These are just a few of the layout components available in Jetpack Compose. By c
   <a href="https://developer.android.com/develop/ui/compose/layouts">
     <img src="https://i.postimg.cc/L6Hqbpqr/android-developers.png" width="300" height="300" />
   </a>
+
+  <br>
   <a href="https://www.youtube.com/playlist?list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r">
     <img src="https://i.ytimg.com/vi/ERBEWmfz6h0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCTBhaLoayUXIDFmuaydCLyhwqDHA" width="300" height="300" />
   </a>
+  <br>
   <a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC">
     <img src="https://i.ytimg.com/vi/cDabx3SjuOY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFrPRmWHGYUxzqUqL7zXYmTENTEA" width="300" height="300" />
   </a>
