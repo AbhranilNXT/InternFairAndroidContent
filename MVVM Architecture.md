@@ -208,14 +208,14 @@ The flow of data in MVVM is a key principle that keeps an application organized 
 
 ### Related Videos and Documentations
 
-- Kotlin Flows: <https://youtu.be/fSB6_KE95bU?si=LgS3TGbw9JOGKj0n>
+[![Video Thumbnail](https://i.postimg.cc/zfNjff00/sddefault.jpg)](https://youtu.be/fSB6_KE95bU?si=LgS3TGbw9JOGKj0n)
 
-- App Architecture: <https://youtu.be/AfCzIEwt_i4>
+[![Video Thumbnail](https://img.youtube.com/vi/AfCzIEwt_i4/sddefault.jpg)](https://youtu.be/AfCzIEwt_i4)
 
-- UI Layer: <https://youtu.be/p9VR8KbmzEE>
+[![Video Thumbnail](https://img.youtube.com/vi/p9VR8KbmzEE/sddefault.jpg)](https://youtu.be/p9VR8KbmzEE)
 
-- ViewModel: <https://www.youtube.com/watch?v=9sqvBydNJSg> |  <https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state#0>
+[![Video Thumbnail](https://img.youtube.com/vi/9sqvBydNJSg/sddefault.jpg)](https://www.youtube.com/watch?v=9sqvBydNJSg)
 
-- MVVM: <https://www.youtube.com/watch?v=-xTqfilaYow>
+[![Video Thumbnail](https://i.postimg.cc/L6Hqbpqr/android-developers.png)](https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state#0)
 
-- MVVM vs Clean Architecture: <https://www.youtube.com/shorts/ZL8QZdo4bPY>
+[![Video Thumbnail](https://img.youtube.com/vi/-xTqfilaYow/sddefault.jpg)](https://www.youtube.com/watch?v=-xTqfilaYow)
