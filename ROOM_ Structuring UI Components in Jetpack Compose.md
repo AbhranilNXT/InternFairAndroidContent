@@ -114,11 +114,19 @@ class UserViewModel(private val database: AppDatabase) : ViewModel() {
 
 ## Resources:
 
-- ROOM documentation:[ Link](https://developer.android.com/training/data-storage/room/)
-
-- [Stevdza san Youtube Playlist](https://www.youtube.com/playlist?list=PLSrm9z4zp4mEPOfZNV9O-crOhoMa0G2-o)
-
-- [Philipp Lackner](https://www.youtube.com/watch?v=bOd3wO0uFr8&pp=ygUXcGhpbGlwcCBsYWNrbmVyIHJvb20gZGI%3D)
+<div>
+  <a href="https://developer.android.com/training/data-storage/room/">
+    <img src="https://i.postimg.cc/L6Hqbpqr/android-developers.png" style="width:500px; height:300px; object-fit: cover;" 
+  </a>
+  <br>
+  <a href="https://www.youtube.com/playlist?list=PLSrm9z4zp4mEPOfZNV9O-crOhoMa0G2-o">
+    <img src="https://i.ytimg.com/vi/lwAvI3WDXBY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLALPdTPPtnzLjvxOOKhwg44HGf-sw" style="width:500px; height:300px; object-fit: cover;"  />
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=bOd3wO0uFr8&pp=ygUXcGhpbGlwcCBsYWNrbmVyIHJvb20gZGI%3D">
+    <img src="https://img.youtube.com/vi/bOd3wO0uFr8/sddefault.jpg" style="width:500px; height:350px; object-fit: cover;"  />
+ </a>
+</div>
 
 ## Important Questions:
 
