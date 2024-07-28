@@ -60,7 +60,7 @@ dependencies {
 
 <div>
   <a href="https://youtu.be/4gUeyNkGE3g?si=Wzjt9_s3kzmeti-J">
-    <img src="https://img.youtube.com/vi/4gUeyNkGE3g/sddefault.jpg" style="width:500px; height:300px; object-fit: cover;" 
+    <img src="https://img.youtube.com/vi/4gUeyNkGE3g/sddefault.jpg" style="width:500px; height:350px; object-fit: cover;" 
   </a>
 </div>
 
