@@ -162,7 +162,7 @@ These are just a few of the layout components available in Jetpack Compose. By c
   </a>
   <br>
   <a href="https://www.youtube.com/playlist?list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r">
-    <img src="https://i.ytimg.com/vi/ERBEWmfz6h0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCTBhaLoayUXIDFmuaydCLyhwqDHA" style="width:300px; height:300px; object-fit: cover;"  />
+    <img src="https://i.ytimg.com/vi/ERBEWmfz6h0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCTBhaLoayUXIDFmuaydCLyhwqDHA" style="width:400px; height:300px; object-fit: cover;"  />
   </a>
   <br>
   <a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC">
