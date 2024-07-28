@@ -166,7 +166,7 @@ Button(onClick = {
 
 <div>
   <a href="https://youtu.be/h61Wqy3qcKg?si=6NGxwKm0g5_MiYTV">
-    <img src="https://img.youtube.com/vi/h61Wqy3qcKg/sddefault.jpg" style="width:500px; height:300px; object-fit: cover;" 
+    <img src="https://img.youtube.com/vi/h61Wqy3qcKg/sddefault.jpg" style="width:500px; height:350px; object-fit: cover;" 
   </a>
 </div>
 
