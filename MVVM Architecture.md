@@ -208,14 +208,28 @@ The flow of data in MVVM is a key principle that keeps an application organized 
 
 ### Related Videos and Documentations
 
-[![Video Thumbnail](https://i.postimg.cc/zfNjff00/sddefault.jpg)](https://youtu.be/fSB6_KE95bU?si=LgS3TGbw9JOGKj0n)
-
-[![Video Thumbnail](https://img.youtube.com/vi/AfCzIEwt_i4/sddefault.jpg)](https://youtu.be/AfCzIEwt_i4)
-
-[![Video Thumbnail](https://img.youtube.com/vi/p9VR8KbmzEE/sddefault.jpg)](https://youtu.be/p9VR8KbmzEE)
-
-[![Video Thumbnail](https://img.youtube.com/vi/9sqvBydNJSg/sddefault.jpg)](https://www.youtube.com/watch?v=9sqvBydNJSg)
-
-[![Video Thumbnail](https://i.postimg.cc/L6Hqbpqr/android-developers.png)](https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state#0)
-
-[![Video Thumbnail](https://img.youtube.com/vi/-xTqfilaYow/sddefault.jpg)](https://www.youtube.com/watch?v=-xTqfilaYow)
+<div>
+  <a href="https://youtu.be/fSB6_KE95bU?si=LgS3TGbw9JOGKj0n">
+    <img src="https://i.postimg.cc/zfNjff00/sddefault.jpg" style="width:500px; height:300px; object-fit: cover;" 
+  </a>
+  <br>
+  <a href="https://youtu.be/AfCzIEwt_i4">
+    <img src="https://img.youtube.com/vi/AfCzIEwt_i4/sddefault.jpg" style="width:500px; height:300px; object-fit: cover;"  />
+  </a>
+  <br>
+  <a href="https://youtu.be/p9VR8KbmzEE">
+    <img src="https://img.youtube.com/vi/p9VR8KbmzEE/sddefault.jpg" style="width:500px; height:300px; object-fit: cover;"  />
+ </a>
+<br>
+  <a href="https://www.youtube.com/watch?v=9sqvBydNJSg">
+    <img src="https://img.youtube.com/vi/9sqvBydNJSg/sddefault.jpg" style="width:500px; height:300px; object-fit: cover;"  />
+ </a>
+<br>
+  <a href="https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state#0">
+    <img src="https://i.postimg.cc/L6Hqbpqr/android-developers.png" style="width:500px; height:300px; object-fit: cover;"  />
+ </a>
+<br>
+  <a href="https://www.youtube.com/watch?v=-xTqfilaYow">
+    <img src="https://img.youtube.com/vi/-xTqfilaYow/sddefault.jpg" style="width:500px; height:300px; object-fit: cover;"  />
+ </a>
+</div>
