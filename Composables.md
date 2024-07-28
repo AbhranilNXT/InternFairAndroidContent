@@ -156,9 +156,18 @@ These are just a few of the layout components available in Jetpack Compose. By c
 - You can nest these layout composables to create more complex structures.
 - Explore the official Jetpack Compose documentation for a comprehensive list of composables and their parameters:
 
-[![Video Thumbnail](https://i.postimg.cc/L6Hqbpqr/android-developers.png)](https://developer.android.com/develop/ui/compose/layouts)
-[![Video Thumbnail](https://i.ytimg.com/vi/ERBEWmfz6h0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCTBhaLoayUXIDFmuaydCLyhwqDHA)](https://www.youtube.com/playlist?list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r)
-[![Video Thumbnail](https://i.ytimg.com/vi/cDabx3SjuOY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFrPRmWHGYUxzqUqL7zXYmTENTEA)](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
+<div align="center">
+  <a href="https://developer.android.com/develop/ui/compose/layouts">
+    <img src="https://i.postimg.cc/L6Hqbpqr/android-developers.png" width="300" height="300" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r">
+    <img src="https://i.ytimg.com/vi/ERBEWmfz6h0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCTBhaLoayUXIDFmuaydCLyhwqDHA" width="300" height="300" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC">
+    <img src="https://i.ytimg.com/vi/cDabx3SjuOY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFrPRmWHGYUxzqUqL7zXYmTENTEA" width="300" height="300" />
+  </a>
+</div>
+
 
 ### Important Questions on Jetpack Compose Layouts with Answers:
 
