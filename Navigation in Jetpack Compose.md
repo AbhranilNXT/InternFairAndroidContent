@@ -58,7 +58,11 @@ dependencies {
 
 #### Relevant Video
 
-https://youtu.be/4gUeyNkGE3g?si=Wzjt9_s3kzmeti-J
+<div>
+  <a href="https://youtu.be/4gUeyNkGE3g?si=Wzjt9_s3kzmeti-J">
+    <img src="https://img.youtube.com/vi/4gUeyNkGE3g/sddefault.jpg" style="width:500px; height:300px; object-fit: cover;" 
+  </a>
+</div>
 
 #### Some related questions
 
@@ -89,10 +93,6 @@ NavHost(navController = rememberNavController(),startDestination = "home") {
 }
 ```
 
-#### Relevant Video
-
-https://youtu.be/4gUeyNkGE3g?si=Wzjt9_s3kzmeti-J
-
 #### Some related questions
 
 - What is a NavHost in Jetpack Compose?
@@ -120,10 +120,6 @@ Button(onClick = {
           Text(\"Go to Details\")
       }
 ```
-
-#### Relevant Video
-
-https://youtu.be/4gUeyNkGE3g?si=Wzjt9_s3kzmeti-J
 
 #### Some related questions
 
@@ -168,7 +164,11 @@ Button(onClick = {
 
 #### Relevant Video
 
-https://youtu.be/h61Wqy3qcKg?si=6NGxwKm0g5_MiYTV
+<div>
+  <a href="https://youtu.be/h61Wqy3qcKg?si=6NGxwKm0g5_MiYTV">
+    <img src="https://img.youtube.com/vi/h61Wqy3qcKg/sddefault.jpg" style="width:500px; height:300px; object-fit: cover;" 
+  </a>
+</div>
 
 #### Some related questions
 
