@@ -1,5 +1,7 @@
 # Navigation in Jetpack Compose
 
+---
+
 ### Introduction to Navigation in Jetpack Compose:
 
 Jetpack Compose simplifies the development of UI elements with its
